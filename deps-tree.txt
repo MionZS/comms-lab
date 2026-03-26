@@ -1,0 +1,78 @@
+Resolved 273 packages in 1ms
+scom v0.1.0
+├── altair v6.0.0
+│   ├── jinja2 v3.1.6
+│   │   └── markupsafe v3.0.3
+│   ├── jsonschema v4.26.0
+│   │   ├── attrs v26.1.0
+│   │   ├── jsonschema-specifications v2025.9.1
+│   │   │   └── referencing v0.37.0
+│   │   │       ├── attrs v26.1.0
+│   │   │       └── rpds-py v0.30.0
+│   │   ├── referencing v0.37.0 (*)
+│   │   ├── rpds-py v0.30.0
+│   │   ├── fqdn v1.5.1 (extra: format-nongpl)
+│   │   ├── idna v3.11 (extra: format-nongpl)
+│   │   ├── isoduration v20.11.0 (extra: format-nongpl)
+│   │   │   └── arrow v1.4.0
+│   │   │       ├── python-dateutil v2.9.0.post0
+│   │   │       │   └── six v1.17.0
+│   │   │       └── tzdata v2025.3
+│   │   ├── jsonpointer v3.1.1 (extra: format-nongpl)
+│   │   ├── rfc3339-validator v0.1.4 (extra: format-nongpl)
+│   │   │   └── six v1.17.0
+│   │   ├── rfc3986-validator v0.1.1 (extra: format-nongpl)
+│   │   ├── rfc3987-syntax v1.1.0 (extra: format-nongpl)
+│   │   │   └── lark v1.3.1
+│   │   ├── uri-template v1.3.0 (extra: format-nongpl)
+│   │   └── webcolors v25.10.0 (extra: format-nongpl)
+│   ├── narwhals v2.18.1
+│   ├── packaging v26.0
+│   └── typing-extensions v4.15.0
+├── bokeh v3.9.0
+│   ├── contourpy v1.3.3
+│   │   └── numpy v2.4.3
+│   ├── jinja2 v3.1.6 (*)
+│   ├── narwhals v2.18.1
+│   ├── numpy v2.4.3
+│   ├── packaging v26.0
+│   ├── pillow v12.1.1
+│   ├── pyyaml v6.0.3
+│   ├── tornado v6.5.5
+│   └── xyzservices v2025.11.0
+├── commpy v0.1.2
+│   ├── matplotlib v3.10.8
+│   │   ├── contourpy v1.3.3 (* )
+│   │   ├── cycler v0.12.1
+│   │   ├── fonttools v4.62.1
+│   │   ├── kiwisolver v1.5.0
+│   │   ├── numpy v2.4.3
+│   │   ├── packaging v26.0
+│   │   ├── pillow v12.1.1
+│   │   ├── pyparsing v3.3.2
+│   │   └── python-dateutil v2.9.0.post0 (*)
+│   └── numpy v2.4.3
+├── cvxpy v1.8.2
+│   ├── clarabel v0.11.1
+│   │   ├── cffi v2.0.0
+│   │   │   └── pycparser v3.0
+│   │   ├── numpy v2.4.3
+│   │   └── scipy v1.17.1
+│   │       └── numpy v2.4.3
+│   ├── highspy v1.13.1
+│   │   └── numpy v2.4.3
+│   ├── numpy v2.4.3
+│   ├── osqp v1.1.1
+│   │   ├── jinja2 v3.1.6 (*)
+│   │   ├── joblib v1.5.3
+│   │   ├── numpy v2.4.3
+│   │   ├── scipy v1.17.1 (*)
+│   │   └── setuptools v81.0.0
+│   ├── scipy v1.17.1 (*)
+│   └── scs v3.2.11
+│       ├── numpy v2.4.3
+│       └── scipy v1.17.1 (*)
+├── dask[complete] v2026.3.0
+... (truncated for brevity) ...
+
+Full tree written by `uv tree --all-groups` is saved here.
